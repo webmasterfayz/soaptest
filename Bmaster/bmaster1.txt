@@ -7,6 +7,10 @@ Content-Length: length
   <soap12:Body>
     <GetSeriesResponse xmlns="http://schema.sportsflash.com.au/Cricket/">
       <GetSeriesResult>xml</GetSeriesResult>
+       <GetSeriesResult>xml</GetSeriesResult>
+        <GetSeriesResult>xml</GetSeriesResult>
+         <GetSeriesResult>xml</GetSeriesResult>
+          <GetSeriesResult>xml</GetSeriesResult>
     </GetSeriesResponse>
   </soap12:Body>
 </soap12:Envelope>
