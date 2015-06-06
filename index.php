@@ -1688,6 +1688,15 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1422078900996-3');
             <li><a href="http://www.ntvbd.com/info/privacy-policy" target="_blank">গোপনীয়তার নীতি</a></li>
             <li><a href="http://www.ntvbd.com/info/terms-conditions" target="_blank">শর্ত ও নিয়মাবলী</a></li>
         </ul>
+	</div>   <!--  added from remote->
+    <div class="copyrightInfo">
+    	<div class="copyright">©&nbsp;সর্বস্বত্ব সংরক্ষিত । এই ওয়েবসাইটের কোনো লেখা, ছবি, ভিডিও অনুমতি ছাড়া ব্যবহার  বেআইনি</div>
+	</div>
+    <div class="copyrightInfo">
+    	<div class="copyright">©&nbsp;সর্বস্বত্ব সংরক্ষিত । এই ওয়েবসাইটের কোনো লেখা, ছবি, ভিডিও অনুমতি ছাড়া ব্যবহার  বেআইনি</div>
+	</div>
+    <div class="copyrightInfo">
+    	<div class="copyright">©&nbsp;সর্বস্বত্ব সংরক্ষিত । এই ওয়েবসাইটের কোনো লেখা, ছবি, ভিডিও অনুমতি ছাড়া ব্যবহার  বেআইনি</div>
 	</div>
     
     <div class="copyrightInfo">
